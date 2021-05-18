@@ -1,0 +1,3 @@
+value_of_pieces 1.0
+mobility 0.10
+pawn 0.05
